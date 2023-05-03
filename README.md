@@ -2,13 +2,19 @@
 알파코 5기 3조 장기프로젝트 공유 레포입니다. 
 
 
+### 개요
+- Project 설명
+- 모델설명
+- Train 결과
+- Fine-tuning
 
-## PROJECT 설명 
+
+### PROJECT 설명 
 
 *추후 작성 예정 * 
 ---
 
-## ABOUT MODEL
+### ABOUT MODEL
 
 ---
 
