@@ -7,7 +7,7 @@
 - 모델설명
 - Train 결과
 - Fine-tuning
-
+- Reference 
 
 ### PROJECT 설명 
 
@@ -37,3 +37,13 @@ MakeItTalk
 ![배성재_makeittalk_eng](https://user-images.githubusercontent.com/121469546/235813155-73a2b65a-10da-4e75-afa7-9f9859a0f5a3.gif)
 
 
+
+
+---
+
+## ReFerence 
+
+
+
+[wav_2lip(https://github.com/Rudrabha/Wav2Lip)
+[makeittalk](https://github.com/yzhou359/MakeItTalk)
