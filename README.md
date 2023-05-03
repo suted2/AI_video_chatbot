@@ -21,7 +21,7 @@
 
 ### Dataset
 
->  AI hub | 한국어 음성 (입 모양 ) 영상 + 음성 | [You can Download Here!](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=538)
++  AI hub / 한국어 음성 (입 모양 ) 영상 + 음성 / [You can Download Here!](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=538)
 
 ---
 ## TRAIN 
