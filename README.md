@@ -30,6 +30,8 @@ i13-5600 | RTX-3070Ti | 32G
 
 
 MakeItTalk
+
+
 ![배성재_makeittalk_kor](https://user-images.githubusercontent.com/121469546/235813171-b01d5e9c-4f2f-4c81-93d9-0818c5b4bf73.gif)
 ![배성재_makeittalk_eng](https://user-images.githubusercontent.com/121469546/235813155-73a2b65a-10da-4e75-afa7-9f9859a0f5a3.gif)
 
