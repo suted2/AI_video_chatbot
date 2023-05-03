@@ -44,6 +44,7 @@ MakeItTalk
 ## ReFerence 
 
 
-
-[wav_2lip](https://github.com/Rudrabha/Wav2Lip)  
-[MakeItTalk](https://github.com/yzhou359/MakeItTalk)
+|Git|paper|
+|---|-----|
+|[wav_2lip](https://github.com/Rudrabha/Wav2Lip)| [paper](https://arxiv.org/pdf/2008.10010v1.pdf)|
+[MakeItTalk](https://github.com/yzhou359/MakeItTalk) | [paper](https://arxiv.org/pdf/2004.12992v3.pdf)
