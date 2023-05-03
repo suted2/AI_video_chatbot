@@ -45,5 +45,5 @@ MakeItTalk
 
 
 
-[wav_2lip(https://github.com/Rudrabha/Wav2Lip)
+[wav_2lip(https://github.com/Rudrabha/Wav2Lip)  
 [makeittalk](https://github.com/yzhou359/MakeItTalk)
