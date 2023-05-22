@@ -45,6 +45,7 @@ MakeItTalk
 
 
 ## data
+```python
 ├── data/ # Kaldi-style data directory
 │   ├── dev/        # validation set
 │   ├── eval1/      # evaluation set
@@ -85,7 +86,7 @@ MakeItTalk
         ├── latest.pth              # symlink to latest model parameter
         ├── *.ave_5best.pth         # model averaged parameters
         └── *.best.pth              # symlink to the best model parameter loss
-
+```
 ---
 
 ## ReFerence 
