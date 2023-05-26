@@ -84,7 +84,7 @@
 ## Enviroment
 
 | Env |CPU | GPU | RAM | OS 
-|------------|------|-------|--------|-----------|
+|:--:|:--:|:--:|:--:|:--:|
 | Local |i5- 13500k | RTX-3070Ti | 32G| Window11 |
 | AWS |  AMD-EPYC-7R32 | RTX-3090| 12G| Ubuntu |
 | kaggle | intel Xeon | P100 | 12G | Ubuntu | 
