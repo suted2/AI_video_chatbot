@@ -1,13 +1,14 @@
 # alpaco_5th_3
-알파코 5기 3조 장기프로젝트 공유 레포입니다. 
 
+## PROJECT Name :  실버 AI 화상 상담 챗봇 
+
+---
 
 ### 개요
+- 문제 상황
 - Project 설명
-- 모델설명
+- 모델 설명
 - Dataset
-- Train 결과
-- Fine-tuning
 - Reference 
 
 ### PROJECT 설명 
@@ -20,16 +21,24 @@
 ---
 
 ### Dataset
-
+---
 +  AI hub / 한국어 음성 (입 모양 ) 영상 + 음성 / [You can Download Here!](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=538)
+
++ 
+
 
 ---
 ## TRAIN 
 
-|CPU | GPU | RAM 
-|------------|------|-------|
-|i13- 12100f | RTX-3070Ti | 32G| 
-|AWS | --| --|
+| Env |CPU | GPU | RAM | OS 
+|------------|------|-------|--------|-----------|
+| Local |i5- 13500k | RTX-3070Ti | 32G| Window11 |
+| AWS |  AMD-EPYC-7R32 | RTX-3090| 12G| Ubuntu |
+| kaggle | intel Xeon | P100 | 12G | Ubuntu | 
+| Colab + | intel Xeon | A100 | 80G | Ubuntu |
+
+
+
 ---
 __Wav2LIP__
 
@@ -52,4 +61,5 @@ MakeItTalk
 |Git|paper|
 |---|-----|
 |[wav_2lip](https://github.com/Rudrabha/Wav2Lip)| [paper](https://arxiv.org/pdf/2008.10010v1.pdf)|
-[MakeItTalk](https://github.com/yzhou359/MakeItTalk) | [paper](https://arxiv.org/pdf/2004.12992v3.pdf)
+|[MakeItTalk](https://github.com/yzhou359/MakeItTalk) | [paper](https://arxiv.org/pdf/2004.12992v3.pdf)|
+|[ESPNET(JETS)](https://github.com/espnet/espnet) | [paper](https://arxiv.org/abs/2203.16852) |
