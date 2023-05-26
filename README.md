@@ -7,7 +7,7 @@
 ---
 
 ### 개요
-- 문제 상황
+- [문제 상황](https://github.com/suted2/alpaco_5th_3/edit/main/README.md?plain1#L18)
 - Project 설명
 - 모델 설명
 - Dataset
