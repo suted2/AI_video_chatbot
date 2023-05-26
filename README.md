@@ -6,11 +6,11 @@
 ---
 
 ### 개요
-- [문제 상황](#문제상황)
-- Project 설명
-- 모델 설명
+- [문제 상황](#문제 상황)
+- [Project 설명](#PROJECT 설명)
+- [모델 설명](#ABOUT MODEL)
 - [Dataset](#Dataset)
-- Reference 
+- [Reference](#Reference) 
 
 
 ---
