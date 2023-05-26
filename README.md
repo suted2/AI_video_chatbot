@@ -11,8 +11,6 @@
 |2023.05.08 ~ 2023.05.23|Image Generation Modeling(Make It Talk, Wave To Lip)|
 |2023.05.15 ~ 2023.05.23|TTS Modeling(JETS)|
   
-[^1] 추가적인 챗봇시스템 구현 예정
-[^2] 서비스 제공을 위한 웹, 앱 구현 예정
 
 
 </br></br></br></br>
