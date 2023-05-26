@@ -63,6 +63,15 @@
 > 상담원과의 전화 연결은 모든 질문에 대한 답이 한번에 오는 반면 </br>
 > 디지털 기기를 통한 상담은 긴 절차와 결과창까지 확인하는 시간이 오래 걸리며 복잡하다. </br>
 
+</br></br>
+
+**결론적으로 만들게 될 모델은 실버 + AI상담원 + 챗봇**이다. 
+
+실버`고령층을 위한 쉽고 편리한` + AI상담원`실제 사람과 대화하는 경험을 통해 거부감을 줄인` + 챗봇`공공서비스에 대한 정보를 제공하는` 시스템을 만드는 PROJECT이다. 
+
+
+
+</br></br>
 
 ### PROJECT 설명 
 
@@ -112,7 +121,7 @@ MakeItTalk
 
 
 |Git|paper|
-|---|-----|
+|:--:|:--:|
 |[wav_2lip](https://github.com/Rudrabha/Wav2Lip)| [paper](https://arxiv.org/pdf/2008.10010v1.pdf)|
 |[MakeItTalk](https://github.com/yzhou359/MakeItTalk) | [paper](https://arxiv.org/pdf/2004.12992v3.pdf)|
 |[ESPNET(JETS)](https://github.com/espnet/espnet) | [paper](https://arxiv.org/abs/2203.16852) |
