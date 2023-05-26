@@ -87,7 +87,7 @@
 ---
 +  AI hub / 한국어 음성 (입 모양 ) 영상 + 음성 / [You can Download Here!](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=538)
 
-+ 
++ 직접 녹음한 / 한국어 남성 독백 wav파일 / `if you want some data contact me by Email!`
 
 
 ---
