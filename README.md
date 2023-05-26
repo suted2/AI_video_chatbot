@@ -9,6 +9,7 @@
 |2023.04.29 ~ 2023.05.08|Data 수집,정제(lip sync 영상 수집, 정제, TTS Data 녹음, 전처리)|
 |2023.05.08 ~ 2023.05.23|Image Generation Modeling(Make It Talk, Wave To Lip)|
 |2023.05.15 ~ 2023.05.23|TTS Modeling(JETS)|
+</br></br></br></br>
 
 ## 구성원 
 *알파코 5기 3조* 
