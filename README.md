@@ -3,11 +3,10 @@
 ## PROJECT Name :  실버 AI 화상 상담 챗봇 
 
 
-
 ---
 
 ### 개요
-- [문제 상황](https://github.com/suted2/alpaco_5th_3/edit/main/README.md?plain1#L18)
+- [문제 상황](https://github.com/suted2/alpaco_5th_3/blob/main/README.md?plain1#L18)
 - Project 설명
 - 모델 설명
 - Dataset
