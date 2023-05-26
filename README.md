@@ -1,8 +1,6 @@
 
 # PROJECT Name :  실버 AI 화상 상담 챗봇
-</br></br></br></br>
-
-`#fff1213`
+</br></br></br>
 
 ## 프로젝트 기간 📆
 
