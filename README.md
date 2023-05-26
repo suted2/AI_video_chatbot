@@ -7,10 +7,10 @@
 
 |구성원|깃허브 주소|역할|한일|
 |:--:|:--:|:--:|:--:|
-|노아윤|[Git]()|팀장| |
-|김도현|[Git]()|팀원| |
-|송기훈|[Git]()|팀원| |
-|황민규|[GIt]()|팀원| |
+|노아윤|[Git](https://github.com/ayun3738)|팀장| |
+|김도현|[Git](github.com/doh0106)|팀원| |
+|송기훈|[Git](https://github.com/Kihoon9498)|팀원| |
+|황민규|[GIt](https://github.com/suted2)|팀원| |
 
 
 
