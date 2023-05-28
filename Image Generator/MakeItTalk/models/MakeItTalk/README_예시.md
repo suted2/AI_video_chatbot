@@ -101,7 +101,7 @@ See also:
 
 ## Reference
 
-| Model |  Link to the model | 
+| Reference |  Link  | 
 | :-------------: | :---------------: |
 | MakeItTalk 원문 | [Link](https://github.com/adobe-research/MakeItTalk)  |
 | MakeItTalk paper | [Link](https://arxiv.org/abs/2004.12992)  |
