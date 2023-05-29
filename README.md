@@ -126,13 +126,37 @@
 
 ### PROJECT 설명 
 
-*추후 작성 예정 * 
 
 ![구상도](https://github.com/suted2/alpaco_5th_3/assets/101646531/05e6d0e9-da6f-4a10-9db6-faff66f23705)
+
+</br></br>
+
+❗TEXT TO SPEECH 를 통해 텍스트를 목소리로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [링크 넣을 곳] 여기서 확인 가능합니다.  
+❗Image Generation 을 통해 목소리와 base model 사진을 넣어 **영상을 생성하는** 내용은 ➡️ [링크 넣을 곳] 여기서 확인 가능합니다.  
+
 
 ---
 
 ### ABOUT MODEL
+
+
+*모델들의 예시를 확인할 수 있는 곳 입니다.*
+
+__Wav2LIP__
+
+<img src="https://user-images.githubusercontent.com/101646531/235811260-f4def410-14ec-406f-a0c4-c68fb31c0fed.gif" width="300" height="200"/> <img src="https://user-images.githubusercontent.com/101646531/235811264-d298537e-8a68-42a9-b8f0-f5395f2bfb7a.gif" width="300" height="200"/>
+
+
+MakeItTalk
+
+
+![배성재_makeittalk_kor](https://user-images.githubusercontent.com/121469546/235813171-b01d5e9c-4f2f-4c81-93d9-0818c5b4bf73.gif)
+![배성재_makeittalk_eng](https://user-images.githubusercontent.com/121469546/235813155-73a2b65a-10da-4e75-afa7-9f9859a0f5a3.gif)
+
+
+
+
+
 
 ---
 
@@ -148,19 +172,6 @@
 
 
 ---
-__Wav2LIP__
-
-<img src="https://user-images.githubusercontent.com/101646531/235811260-f4def410-14ec-406f-a0c4-c68fb31c0fed.gif" width="300" height="200"/> <img src="https://user-images.githubusercontent.com/101646531/235811264-d298537e-8a68-42a9-b8f0-f5395f2bfb7a.gif" width="300" height="200"/>
-
-
-MakeItTalk
-
-
-![배성재_makeittalk_kor](https://user-images.githubusercontent.com/121469546/235813171-b01d5e9c-4f2f-4c81-93d9-0818c5b4bf73.gif)
-![배성재_makeittalk_eng](https://user-images.githubusercontent.com/121469546/235813155-73a2b65a-10da-4e75-afa7-9f9859a0f5a3.gif)
-
-
-
 
 
 ## ReFerence 
