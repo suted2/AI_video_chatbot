@@ -25,7 +25,16 @@
 |송기훈|[Git](https://github.com/Kihoon9498)|MIT fine-tuning, 데이터 전처리, whisper pipeline, aws 환경 구축|
 |황민규|[GIt](https://github.com/suted2)|W2L fine-tuning, 데이터 전처리, TOXIC pipeline, TTS 데이터 성생성|
 
+</br>
+---
+## Enviroment
 
+| Env |CPU | GPU | RAM | OS 
+|:--:|:--:|:--:|:--:|:--:|
+| Local |i5- 13500k | RTX-3070Ti | 32G| Window11 |
+| AWS |  AMD-EPYC-7R32 | RTX-3090| 12G| Ubuntu |
+| kaggle | intel Xeon | P100 | 12G | Ubuntu | 
+| Colab + | intel Xeon | A100 | 80G | Ubuntu |
 
 
 ---
@@ -134,15 +143,7 @@
 + 직접 녹음한 / 한국어 남성 독백 wav파일 / `if you want some data contact me by Email!`
 
 
----
-## Enviroment
 
-| Env |CPU | GPU | RAM | OS 
-|:--:|:--:|:--:|:--:|:--:|
-| Local |i5- 13500k | RTX-3070Ti | 32G| Window11 |
-| AWS |  AMD-EPYC-7R32 | RTX-3090| 12G| Ubuntu |
-| kaggle | intel Xeon | P100 | 12G | Ubuntu | 
-| Colab + | intel Xeon | A100 | 80G | Ubuntu |
 
 
 
