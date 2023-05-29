@@ -25,8 +25,8 @@
 |송기훈|[Git](https://github.com/Kihoon9498)|MIT fine-tuning, 데이터 전처리, whisper pipeline, aws 환경 구축|
 |황민규|[GIt](https://github.com/suted2)|W2L fine-tuning, 데이터 전처리, TOXIC pipeline, TTS 데이터 성생성|
 
-</br>
----
+</br>  
+---  
 ## Enviroment
 
 | Env |CPU | GPU | RAM | OS 
