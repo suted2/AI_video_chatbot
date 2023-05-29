@@ -128,7 +128,7 @@
 
 *추후 작성 예정 * 
 
-[구상도](https://github.com/suted2/alpaco_5th_3/assets/101646531/05e6d0e9-da6f-4a10-9db6-faff66f23705)
+![구상도](https://github.com/suted2/alpaco_5th_3/assets/101646531/05e6d0e9-da6f-4a10-9db6-faff66f23705)
 
 ---
 
