@@ -26,7 +26,8 @@
 |황민규|[GIt](https://github.com/suted2)|W2L fine-tuning, 데이터 전처리, TOXIC pipeline, TTS 데이터 성생성|
 
 </br>  
----  
+---
+
 ## Enviroment
 
 | Env |CPU | GPU | RAM | OS 
