@@ -163,6 +163,8 @@ MakeItTalk
 ### Dataset
 ---
 +  AI hub / 한국어 음성 (입 모양 ) 영상 + 음성 / [You can Download Here!](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=538)
+> 해당 데이터에 대한 자세한 설명은 ➡️ [여기](https://github.com/suted2/alpaco_5th_3/tree/main/Image%20Generator) 확인 가능합니다.
+
 
 + 직접 녹음한 / 한국어 남성 독백 wav파일 / `if you want some data contact me by Email!`
 
