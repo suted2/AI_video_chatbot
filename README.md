@@ -116,6 +116,11 @@
 ### PROJECT 설명 
 
 *추후 작성 예정 * 
+
+![구상도](https://github.com/suted2/alpaco_5th_3/assets/101646531/8cdc258d-2c3a-4a80-b524-02af5253834a)
+
+
+
 ---
 
 ### ABOUT MODEL
