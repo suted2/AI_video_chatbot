@@ -6,7 +6,7 @@
 
 ### Relate Work 
 
-> Talking Head Generation
+> Talking Head Generation <
 > Talking Face Generation 
 
 해당 두개의 모델을 집중적으로 찾았습니다. 
