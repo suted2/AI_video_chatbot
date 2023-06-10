@@ -13,7 +13,7 @@
 
 ###  Model Selection
 
-1. Make It Talk
+1. [Make It Talk](https://github.com/suted2/AI_video_chatbot/tree/f8b64f0c32ade7882934a771b3180cda89a302f4/Image%20Generator/MakeItTalk)
 2. Wave to Lip 
 3. RAD-NeRF
 
