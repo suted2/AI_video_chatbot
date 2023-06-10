@@ -1,6 +1,11 @@
 # Wave to Lip 
 
 
+## Data 전처리 
+
+1. 
+
+
 ## Model 선정 이유 
 
 
