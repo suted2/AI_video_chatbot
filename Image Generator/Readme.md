@@ -14,7 +14,7 @@
 ###  Model Selection
 
 1. [Make It Talk](https://github.com/suted2/AI_video_chatbot/tree/f8b64f0c32ade7882934a771b3180cda89a302f4/Image%20Generator/MakeItTalk)
-2. Wave to Lip 
+2. [Wave to Lip](https://github.com/suted2/AI_video_chatbot/tree/83bb17528a6f926b558648118e97928fb3c50f69/Image%20Generator/Wave2Lip) 
 3. RAD-NeRF
 
 모델 select의 기준은 
