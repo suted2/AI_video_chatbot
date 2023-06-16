@@ -1,0 +1,3 @@
+[submodule "chatbot/poly-encoder"]
+	path = chatbot/poly-encoder
+	url = https://github.com/doh0106/Poly-Encoder.git
