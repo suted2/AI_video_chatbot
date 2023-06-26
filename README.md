@@ -13,19 +13,30 @@
   
 
 
-</br></br></br></br>
+</br></br>
 
 ## 구성원 🤸🏻‍♀️
 *알파코 5기 3조* 
 
-|구성원|깃허브 주소|역할|한일|
-|:--:|:--:|:--:|:--:|
-|노아윤|[Git](https://github.com/ayun3738)|팀장| |
-|김도현|[Git](github.com/doh0106)|팀원| |
-|송기훈|[Git](https://github.com/Kihoon9498)|팀원| |
-|황민규|[GIt](https://github.com/suted2)|팀원| |
+|구성원|깃허브 주소|한일|
+|:--:|:--:|:--:|
+|노아윤|[Git](https://github.com/ayun3738)|프로젝트 일정 관리, MIT fine-tuning, 데이터 전처리|
+|김도현|[Git](github.com/doh0106)|TTS Modeling(Jests-based), 데이터 전처리|
+|송기훈|[Git](https://github.com/Kihoon9498)|MIT fine-tuning, 데이터 전처리, whisper pipeline, aws 환경 구축|
+|황민규|[GIt](https://github.com/suted2)|W2L fine-tuning, Rad-NeRF fine-tuning 데이터 전처리, TOXIC pipeline, TTS 데이터 성생성|
 
+</br>  
 
+---
+
+## Enviroment
+
+| Env |CPU | GPU | RAM | OS 
+|:--:|:--:|:--:|:--:|:--:|
+| Local |i5- 13500k | RTX-3070Ti | 32G| Window11 |
+| AWS |  AMD-EPYC-7R32 | RTX-3090| 12G| Ubuntu |
+| kaggle | intel Xeon | P100 | 12G | Ubuntu | 
+| Colab + | intel Xeon | A100 | 80G | Ubuntu |
 
 
 ---
@@ -115,33 +126,22 @@
 
 ### PROJECT 설명 
 
-*추후 작성 예정 * 
+
+![구상도](https://github.com/suted2/alpaco_5th_3/assets/101646531/05e6d0e9-da6f-4a10-9db6-faff66f23705)
+
+</br></br>
+
+❗TEXT TO SPEECH 를 통해 텍스트를 목소리로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [링크 넣을 곳] 여기서 확인 가능합니다.  
+❗Image Generation 을 통해 목소리와 base model 사진을 넣어 **영상을 생성하는** 내용은 ➡️ [링크 넣을 곳] 여기서 확인 가능합니다.  
+
+
 ---
 
 ### ABOUT MODEL
 
----
 
-### Dataset
----
-+  AI hub / 한국어 음성 (입 모양 ) 영상 + 음성 / [You can Download Here!](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=538)
+*모델들의 예시를 확인할 수 있는 곳 입니다.*
 
-+ 직접 녹음한 / 한국어 남성 독백 wav파일 / `if you want some data contact me by Email!`
-
-
----
-## Enviroment
-
-| Env |CPU | GPU | RAM | OS 
-|:--:|:--:|:--:|:--:|:--:|
-| Local |i5- 13500k | RTX-3070Ti | 32G| Window11 |
-| AWS |  AMD-EPYC-7R32 | RTX-3090| 12G| Ubuntu |
-| kaggle | intel Xeon | P100 | 12G | Ubuntu | 
-| Colab + | intel Xeon | A100 | 80G | Ubuntu |
-
-
-
----
 __Wav2LIP__
 
 <img src="https://user-images.githubusercontent.com/101646531/235811260-f4def410-14ec-406f-a0c4-c68fb31c0fed.gif" width="300" height="200"/> <img src="https://user-images.githubusercontent.com/101646531/235811264-d298537e-8a68-42a9-b8f0-f5395f2bfb7a.gif" width="300" height="200"/>
@@ -157,11 +157,30 @@ MakeItTalk
 
 
 
+
+---
+
+### Dataset
+---
++  AI hub / 한국어 음성 (입 모양 ) 영상 + 음성 / [You can Download Here!](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=538)
+> 해당 데이터에 대한 자세한 설명은 ➡️ [여기](https://github.com/suted2/alpaco_5th_3/tree/main/Image%20Generator) 확인 가능합니다.
+
+
++ 직접 녹음한 / 한국어 남성 독백 wav파일 / `if you want some data contact me by Email!`
+
+
+
+
+
+
+---
+
+
 ## ReFerence 
 
 
-|Git|paper|
-|:--:|:--:|
-|[wav_2lip](https://github.com/Rudrabha/Wav2Lip)| [paper](https://arxiv.org/pdf/2008.10010v1.pdf)|
-|[MakeItTalk](https://github.com/yzhou359/MakeItTalk) | [paper](https://arxiv.org/pdf/2004.12992v3.pdf)|
-|[ESPNET(JETS)](https://github.com/espnet/espnet) | [paper](https://arxiv.org/abs/2203.16852) |
+|Reference|Git|paper_link|
+|:--:|:--:|:--:|
+|Prajwal, K. R., et al. "A lip sync expert is all you need for speech to lip generation in the wild." Proceedings of the 28th ACM International Conference on Multimedia. 2020.|[wav_2lip](https://github.com/Rudrabha/Wav2Lip)| [paper](https://arxiv.org/pdf/2008.10010v1.pdf)|
+|Zhou, Yang, et al. "Makelttalk: speaker-aware talking-head animation." ACM Transactions On Graphics (TOG) 39.6 (2020): 1-15.|[MakeItTalk](https://github.com/yzhou359/MakeItTalk) | [paper](https://arxiv.org/pdf/2004.12992v3.pdf)|
+|[end-to-end speech processing toolkit](https://espnet.github.io/espnet/)|[ESPNET(JETS)](https://github.com/espnet/espnet) | [paper](https://arxiv.org/abs/2203.16852) |
