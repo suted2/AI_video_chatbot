@@ -170,6 +170,11 @@ MakeItTalk
 
 
 
+---
+
+#### Total Process
+
+![총 프로세스](https://github.com/suted2/AI_video_chatbot/assets/101646531/5e456e6f-093a-4336-9236-74824bc61957)
 
 
 
