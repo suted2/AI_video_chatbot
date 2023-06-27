@@ -89,14 +89,61 @@ Run script (may take hours dependending on the video length)
 # run all steps
 python data_utils/process.py data/<ID>/<ID>.mp4
 
-# if you want to run a specific step 
+# if you want to run a specific step
 python data_utils/process.py data/<ID>/<ID>.mp4 --task 1 # extract audio wave
 
-##
+##단계별로 진행도 가능합니다. 
+
+# --task 1 의 경우는 audio wave를 추출하는 과정 
+# --task 2 의 경우는 audio wave의 feature를 추출하는 과정 
+# --task 3 의 경우는 image를 추출하는 과정 
+# --task 4 의 경우는 semantics를 추출하는 과정
+# --task 5 의 경우는 배경을 추출하는 과정 
+# --task 6 의 경우는 상체와 ground_truth를 추출하는 과정 
+# --task 7 의 경우는 얼굴의 Landmark를 추출하는 과정 
+# --task 8 의 경우는 얼굴의 표정을 Tracking 하는 과정 
+# --task 9 의 경우는 위의 과정을 저장하는 과정 
 
 
 ```
 
+
+
+### Usage
+
+```python
+# train (head)
+# by default, we load data from disk on the fly.
+# we can also preload all data to CPU/GPU for faster training, but this is very memory-hungry for large datasets.
+# `--preload 0`: load from disk (default, slower).
+# `--preload 1`: load to CPU, requires ~70G CPU memory (slightly slower)
+# `--preload 2`: load to GPU, requires ~24G GPU memory (fast)
+python main.py data/obama/ --workspace trial_obama/ -O --iters 200000
+
+# train (finetune lips for another 50000 steps, run after the above command!)
+python main.py data/obama/ --workspace trial_obama/ -O --iters 250000 --finetune_lips
+
+# train (torso)
+# <head>.pth should be the latest checkpoint in trial_obama
+python main.py data/obama/ --workspace trial_obama_torso/ -O --torso --head_ckpt <head>.pth --iters 200000
+
+
+
+
+```
+
+
+##Citation
+
+```shell
+@article{tang2022radnerf,
+  title={Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition},
+  author={Tang, Jiaxiang and Wang, Kaisiyuan and Zhou, Hang and Chen, Xiaokang and He, Dongliang and Hu, Tianshu and Liu, Jingtuo and Zeng, Gang and Wang, Jingdong},
+  journal={arXiv preprint arXiv:2211.12368},
+  year={2022}
+}
+
+```
 
 
 ### Reference 
