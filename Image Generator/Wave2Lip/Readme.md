@@ -37,6 +37,18 @@
 `%run hq_wav2lip_train.py --data_root <your> --checkpoint_dir checkpoints/ --syncnet_checkpoint_path <your syncnet.pth> --checkpoint_path <wav2lip.pth (이전 트레인에서 이어서 할 경우> --disc_checkpoint_path <화질 관련 discriminator.pth>`
 
 
+---
+
+## 왜 Fine-Tuning 이 필요한가 ? 
+
+1. 영어 및 4개의 다국어로 pretrain 된 본 논문의 weight를 가지고 inference 시 한국어를 하면 이빨이 사라지는 모습이 보인다. 
+![image](https://github.com/suted2/AI_video_chatbot/assets/101646531/9e92dd46-90a9-43af-a932-5523d9690b16)
+
+2. 한국어 입모양이 맞지 않다. 
+![영어 입모양](https://github.com/suted2/AI_video_chatbot/assets/101646531/f93e3a2e-ea65-45b4-bdde-a2800c64fea8)
+![한국어 적용 입모양](https://github.com/suted2/AI_video_chatbot/assets/101646531/70d69f34-8771-4f85-8139-1dc992122f60)
+
+
 
 
 
