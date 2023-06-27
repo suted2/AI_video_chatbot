@@ -159,13 +159,12 @@ __Rad-NeRF__
 
 
 
-<img src="https://github.com/suted2/AI_video_chatbot/blob/7a5d4837f9e82e8bacfb762c9aa3f0fd293faea9/Image%20Generator/assets/RadNerf.gif" width="300" height="200"/>
+<img src="https://github.com/suted2/AI_video_chatbot/blob/7a5d4837f9e82e8bacfb762c9aa3f0fd293faea9/Image%20Generator/assets/RadNerf.gif" width="500" height="400"/>
 
 __SadTalker__
 
 
-![Sad-Talker](https://github.com/suted2/AI_video_chatbot/assets/101646531/bc7e7db0-92e6-445e-8a28-61848a416877)
-
+<img src="https://github.com/suted2/AI_video_chatbot/blob/7a5d4837f9e82e8bacfb762c9aa3f0fd293faea9/Image%20Generator/assets/RadNerf.gif" width="500" height="400"/>
 
 
 ---
