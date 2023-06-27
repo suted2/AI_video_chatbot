@@ -159,8 +159,7 @@ __Rad-NeRF__
 
 
 
-![RadNerf2](https://github.com/suted2/AI_video_chatbot/assets/101646531/53da42d4-06c4-4678-b8af-48892088f627)
-
+<img src="https://user-images.githubusercontent.com/101646531/235811260-f4def410-14ec-406f-a0c4-c68fb31c0fed.gif(https://github.com/suted2/AI_video_chatbot/assets/101646531/53da42d4-06c4-4678-b8af-48892088f627)" width="300" height="200"/>
 
 __SadTalker__
 
