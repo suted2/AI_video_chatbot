@@ -159,16 +159,13 @@ __Rad-NeRF__
 
 
 
-![Rad-NeRF](https://github.com/suted2/AI_video_chatbot/assets/101646531/58e6b85b-0b90-4135-ae6f-c4dc31c1f029)
+![RadNerf2](https://github.com/suted2/AI_video_chatbot/assets/101646531/53da42d4-06c4-4678-b8af-48892088f627)
 
 
 __SadTalker__
 
-![sadtalker](https://github.com/suted2/AI_video_chatbot/assets/101646531/81c49e92-8fd0-4bf6-bb9d-efd7b0d463b3)
 
-
-
-
+![KakaoTalk_20230626_174107863](https://github.com/suted2/AI_video_chatbot/assets/101646531/d3d36307-42be-4a27-a141-f7d6c02a513b)
 
 
 
