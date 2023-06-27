@@ -225,3 +225,5 @@ __SadTalker__
 |Prajwal, K. R., et al. "A lip sync expert is all you need for speech to lip generation in the wild." Proceedings of the 28th ACM International Conference on Multimedia. 2020.|[Wav_2Lip](https://github.com/Rudrabha/Wav2Lip)| [paper](https://arxiv.org/pdf/2008.10010v1.pdf)|
 |Zhou, Yang, et al. "Makelttalk: speaker-aware talking-head animation." ACM Transactions On Graphics (TOG) 39.6 (2020): 1-15.|[MakeItTalk](https://github.com/yzhou359/MakeItTalk) | [paper](https://arxiv.org/pdf/2004.12992v3.pdf)|
 |[end-to-end speech processing toolkit](https://espnet.github.io/espnet/)|[ESPNET(JETS)](https://github.com/espnet/espnet) | [paper](https://arxiv.org/abs/2203.16852) |
+|TANG, Jiaxiang, et al. Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition. arXiv preprint arXiv:2211.12368, 2022.|[Rad-NeRF](https://github.com/ashawkey/RAD-NeRF)| [paper](https://arxiv.org/abs/2211.12368)
+|LIM, Dan; JUNG, Sunghee; KIM, Eesung. JETS: Jointly training FastSpeech2 and HiFi-GAN for end to end text to speech. arXiv preprint arXiv:2203.16852, 2022.|[JETS](https://github.com/imdanboy/jets)| [paper](https://arxiv.org/pdf/2203.16852v2.pdf)
