@@ -165,8 +165,7 @@ __Rad-NeRF__
 __SadTalker__
 
 
-![KakaoTalk_20230626_174107863](https://github.com/suted2/AI_video_chatbot/assets/101646531/d3d36307-42be-4a27-a141-f7d6c02a513b)
-
+![Sad-Talker](https://github.com/suted2/AI_video_chatbot/assets/101646531/bc7e7db0-92e6-445e-8a28-61848a416877)
 
 
 
