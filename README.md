@@ -155,6 +155,20 @@ MakeItTalk
 ![배성재_makeittalk_eng](https://user-images.githubusercontent.com/121469546/235813155-73a2b65a-10da-4e75-afa7-9f9859a0f5a3.gif)
 
 
+__Rad-NeRF__
+
+
+
+![Rad-NeRF](https://github.com/suted2/AI_video_chatbot/assets/101646531/58e6b85b-0b90-4135-ae6f-c4dc31c1f029)
+
+
+__SadTalker__
+
+![sadtalker](https://github.com/suted2/AI_video_chatbot/assets/101646531/81c49e92-8fd0-4bf6-bb9d-efd7b0d463b3)
+
+
+
+
 
 
 
