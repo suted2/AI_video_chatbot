@@ -126,11 +126,13 @@
 
 ### PROJECT 설명 
 
+![총 프로세스](https://github.com/suted2/AI_video_chatbot/assets/101646531/5e456e6f-093a-4336-9236-74824bc61957)
 
-![구상도](https://github.com/suted2/alpaco_5th_3/assets/101646531/05e6d0e9-da6f-4a10-9db6-faff66f23705)
 
 </br></br>
 
+❗STT
+❗TOXIC
 ❗TEXT TO SPEECH 를 통해 텍스트를 목소리로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [링크 넣을 곳] 여기서 확인 가능합니다.  
 ❗Image Generation 을 통해 목소리와 base model 사진을 넣어 **영상을 생성하는** 내용은 ➡️ [링크 넣을 곳] 여기서 확인 가능합니다.  
 
@@ -170,11 +172,6 @@ MakeItTalk
 
 
 
----
-
-#### Total Process
-
-![총 프로세스](https://github.com/suted2/AI_video_chatbot/assets/101646531/5e456e6f-093a-4336-9236-74824bc61957)
 
 
 
