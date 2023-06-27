@@ -44,9 +44,19 @@
 1. 영어 및 4개의 다국어로 pretrain 된 본 논문의 weight를 가지고 inference 시 한국어를 하면 이빨이 사라지는 모습이 보인다. 
 ![image](https://github.com/suted2/AI_video_chatbot/assets/101646531/9e92dd46-90a9-43af-a932-5523d9690b16)
 
-2. 한국어 입모양이 맞지 않다. 
+2. 한국어 입모양이 맞지 않다. <br>
 ![영어 입모양](https://github.com/suted2/AI_video_chatbot/assets/101646531/f93e3a2e-ea65-45b4-bdde-a2800c64fea8)
 ![한국어 적용 입모양](https://github.com/suted2/AI_video_chatbot/assets/101646531/70d69f34-8771-4f85-8139-1dc992122f60)
+
+
+
+
+### 개인 적인 Train 결과 
+
+1. syncnet ( Discriminator ) <br>
+![image](https://github.com/suted2/AI_video_chatbot/assets/101646531/f2e6040c-aa1c-45b7-bc16-4617ac6a24ef)
+
+논문에서 요구하는 수치인 0.2 loss 까지는 수렴하지 못했지만, 0.44 까지 수렴 Train 시간이 110 시간이 넘어가서 중지함. 
 
 
 
