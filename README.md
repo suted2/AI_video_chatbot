@@ -20,10 +20,10 @@
 
 |구성원|깃허브 주소|한일|
 |:--:|:--:|:--:|
-|노아윤|[Git](https://github.com/ayun3738)|프로젝트 일정 관리, MIT fine-tuning, 데이터 전처리|
-|김도현|[Git](github.com/doh0106)|TTS Modeling(Jests-based), 데이터 전처리|
-|송기훈|[Git](https://github.com/Kihoon9498)|MIT fine-tuning, 데이터 전처리, whisper pipeline, aws 환경 구축|
-|황민규|[GIt](https://github.com/suted2)|W2L fine-tuning, Rad-NeRF fine-tuning 데이터 전처리, TOXIC pipeline, TTS 데이터 성생성|
+|노아윤|[Git](https://github.com/ayun3738)|프로젝트 일정 관리, MIT fine-tuning, 데이터 전처리, Web Ux 구현|
+|김도현|[Git](github.com/doh0106)|TTS Modeling(Jests-based), 데이터 전처리, Poly-Encoder train, aws 환경 구축, Web Ux 구현|
+|송기훈|[Git](https://github.com/Kihoon9498)|MIT fine-tuning, 데이터 전처리, whisper pipeline, aws 환경 구축, Web UI, Ux 구현, 웹 서비스 배포|
+|황민규|[GIt](https://github.com/suted2)|W2L fine-tuning, Rad-NeRF fine-tuning 데이터 전처리, TOXIC pipeline, TTS 데이터 생성, Web Ux 구현|
 
 </br>  
 
@@ -170,6 +170,37 @@ MakeItTalk
 
 
 
+---
+
+#### Total Process
+
+![총 프로세스](https://github.com/suted2/AI_video_chatbot/assets/101646531/5e456e6f-093a-4336-9236-74824bc61957)
+
+
+
+
+---
+
+#### 적용할 수 있는 분야 
+
+
+![Future work](https://github.com/suted2/AI_video_chatbot/assets/101646531/bc438ba5-1f2f-4174-a618-cd409bdac1f1)
+
+ 해당 프로젝트는 AI 화상 상담원을 기준으로 작성되었다.  하지만 여러 분야에 걸처 사용될 수 있다고 생각된다. 
+
+ 1. 검색 엔진, 많은 페이지.
+    - 실상 많은 고령층이 사용하는 검색 엔진은 네이버, 구글일 것이다. 이 중 사진, 친근성이라는 이유는 네이버가 클 것이다.
+    - 해당 검색을 통하면 광고, 너무 많은 URL 등으로 실제로 유용한 정보 탐색에 큰 어려움을 겪고 있다.
+    - 검색 엔진에 AI 화상 상담원을 사용하여 실버층의 검색을 도울 수 있다.
+
+
+  2. 모바일 금융
+     - 많은 금융 혜택, 프로세스가 모바일로 넘어가고 있다.
+     - 하지만 고령층은 불신과, 과정의 어려움으로 실제로 사용하지 못하고 있다.
+    
+  3. 현장 키오스크로 확대
+     - 키오스크가 가장 노인들이 두려워하는 방식이다. 라는 말처럼
+     - 키오스크에 적용 처리한다. 
 
 
 
@@ -181,6 +212,6 @@ MakeItTalk
 
 |Reference|Git|paper_link|
 |:--:|:--:|:--:|
-|Prajwal, K. R., et al. "A lip sync expert is all you need for speech to lip generation in the wild." Proceedings of the 28th ACM International Conference on Multimedia. 2020.|[wav_2lip](https://github.com/Rudrabha/Wav2Lip)| [paper](https://arxiv.org/pdf/2008.10010v1.pdf)|
+|Prajwal, K. R., et al. "A lip sync expert is all you need for speech to lip generation in the wild." Proceedings of the 28th ACM International Conference on Multimedia. 2020.|[Wav_2Lip](https://github.com/Rudrabha/Wav2Lip)| [paper](https://arxiv.org/pdf/2008.10010v1.pdf)|
 |Zhou, Yang, et al. "Makelttalk: speaker-aware talking-head animation." ACM Transactions On Graphics (TOG) 39.6 (2020): 1-15.|[MakeItTalk](https://github.com/yzhou359/MakeItTalk) | [paper](https://arxiv.org/pdf/2004.12992v3.pdf)|
 |[end-to-end speech processing toolkit](https://espnet.github.io/espnet/)|[ESPNET(JETS)](https://github.com/espnet/espnet) | [paper](https://arxiv.org/abs/2203.16852) |
