@@ -1,6 +1,6 @@
 # Whisper
 
-OpenAI 에서 제공한 다국어 STT 모델(Whisper)을 사용하였습니다.
+OpenAI 에서 제공한 다국어 STT 모델([Whisper](https://github.com/openai/whisper))을 사용하였습니다.
 
 Whisper 모델은 Large dataset(680k hours)으로 학습되었고, 다국어 Speech-Recognition, Speech-Translation, Language-Identification이 가능합니다.
 
