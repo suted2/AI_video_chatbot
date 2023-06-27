@@ -9,7 +9,7 @@ Whisper 모델은 Large dataset(680k hours)으로 학습되었고, 다국어 Spe
 
 ![Approach](https://raw.githubusercontent.com/openai/whisper/main/approach.png)
 
-Whisper 모델은 위와 같은 구조를 가지고 있고, Transformer, Sequence-to-Sequence 모델은 다양한 Task에 활용될 수 있도록 학습되었습니다. 
+Whisper 모델은 위와 같은 Transformer, Sequence-to-Sequence의 구조를 가지고 있고 다양한 Task에 활용될 수 있도록 학습되었습니다. 
 
 ## Setup
 
