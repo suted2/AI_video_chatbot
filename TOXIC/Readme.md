@@ -81,3 +81,8 @@
 
 ```
 다음과 같은 방식으로 hugging face의 모델을 사용, Bert 기반의 tokenizer를 사용하여 각 카테고리의 sigmoid 값을 통해 구합니다. 
+
+
+해당 TOXIC check 는 
+
+STT -> 이후 사용됩니다.
