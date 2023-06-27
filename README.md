@@ -159,17 +159,12 @@ __Rad-NeRF__
 
 
 
-![Rad-NeRF](https://github.com/suted2/AI_video_chatbot/assets/101646531/58e6b85b-0b90-4135-ae6f-c4dc31c1f029)
-
+<img src="https://user-images.githubusercontent.com/101646531/235811260-f4def410-14ec-406f-a0c4-c68fb31c0fed.gif(https://github.com/suted2/AI_video_chatbot/assets/101646531/53da42d4-06c4-4678-b8af-48892088f627)" width="300" height="200"/>
 
 __SadTalker__
 
-![sadtalker](https://github.com/suted2/AI_video_chatbot/assets/101646531/81c49e92-8fd0-4bf6-bb9d-efd7b0d463b3)
 
-
-
-
-
+![Sad-Talker](https://github.com/suted2/AI_video_chatbot/assets/101646531/bc7e7db0-92e6-445e-8a28-61848a416877)
 
 
 
