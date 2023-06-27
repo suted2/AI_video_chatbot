@@ -1,0 +1,62 @@
+wandb: Currently logged in as: suted321. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.15.3
+wandb: Run data is saved locally in /home/ubuntu/mg/RAD-NeRF/wandb/run-20230603_004319-xsg2prcb
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run peach-resonance-3
+wandb: ⭐️ View project at https://wandb.ai/suted321/RAD-NeRF
+wandb: 🚀 View run at https://wandb.ai/suted321/RAD-NeRF/runs/xsg2prcb
+Namespace(path='data/aihub/', O=True, test=False, test_train=False, data_range=[0, -1], workspace='trial_aihub/', seed=0, iters=200000, lr=0.005, lr_net=0.0005, ckpt='latest', num_rays=65536, cuda_ray=True, max_steps=16, num_steps=16, upsample_steps=0, update_extra_interval=16, max_ray_batch=4096, fp16=True, lambda_amb=0.1, bg_img='', fbg=False, exp_eye=True, fix_eye=-1, smooth_eye=False, torso_shrink=0.8, color_space='srgb', preload=0, bound=1, scale=4, offset=[0, 0, 0], dt_gamma=0.00390625, min_near=0.05, density_thresh=10, density_thresh_torso=0.01, patch_size=1, finetune_lips=False, smooth_lips=False, torso=False, head_ckpt='', gui=False, W=450, H=450, radius=3.35, fovy=21.24, max_spp=1, att=2, aud='', emb=False, ind_dim=4, ind_num=10000, ind_dim_torso=8, amb_dim=2, part=False, part2=False, train_camera=False, smooth_path=False, smooth_path_window=7, asr=False, asr_wav='', asr_play=False, asr_model='kresnik/wav2vec2-large-xlsr-korean', asr_save_feats=False, fps=50, l=10, m=50, r=10)
+[INFO] load 6820 train frames.
+[INFO] load  aud_features: torch.Size([7502, 1205, 16])
+Loading train data:   0%|          | 0/6820 [00:00<?, ?it/s]Loading train data:   7%|▋         | 485/6820 [00:00<00:01, 4844.70it/s]Loading train data:  14%|█▍        | 970/6820 [00:00<00:01, 4839.04it/s]Loading train data:  21%|██▏       | 1454/6820 [00:00<00:01, 4543.52it/s]Loading train data:  28%|██▊       | 1911/6820 [00:00<00:01, 4065.93it/s]Loading train data:  35%|███▍      | 2358/6820 [00:00<00:01, 4196.62it/s]Loading train data:  42%|████▏     | 2846/6820 [00:00<00:00, 4412.64it/s]Loading train data:  49%|████▉     | 3327/6820 [00:00<00:00, 4534.01it/s]Loading train data:  56%|█████▌    | 3815/6820 [00:00<00:00, 4639.96it/s]Loading train data:  63%|██████▎   | 4283/6820 [00:00<00:00, 4393.08it/s]Loading train data:  69%|██████▉   | 4727/6820 [00:01<00:00, 3994.79it/s]Loading train data:  75%|███████▌  | 5136/6820 [00:01<00:00, 3915.08it/s]Loading train data:  81%|████████  | 5534/6820 [00:01<00:00, 3814.90it/s]Loading train data:  88%|████████▊ | 6020/6820 [00:01<00:00, 4102.78it/s]Loading train data:  95%|█████████▌| 6496/6820 [00:01<00:00, 4287.13it/s]Loading train data: 100%|██████████| 6820/6820 [00:01<00:00, 4291.77it/s]
+/home/ubuntu/anaconda3/envs/RAD-NeRF/lib/python3.10/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/ubuntu/anaconda3/envs/RAD-NeRF/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=AlexNet_Weights.IMAGENET1K_V1`. You can also use `weights=AlexNet_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Downloading: "https://download.pytorch.org/models/alexnet-owt-7be5be79.pth" to /home/ubuntu/.cache/torch/hub/checkpoints/alexnet-owt-7be5be79.pth
+[INFO] eye_area: 0.0823974609375 - 0.360870361328125
+Setting up [LPIPS] perceptual loss: trunk [alex], v[0.1], spatial [off]
+  0%|          | 0.00/233M [00:00<?, ?B/s] 16%|█▌        | 36.6M/233M [00:00<00:00, 384MB/s] 31%|███▏      | 73.3M/233M [00:00<00:00, 380MB/s] 47%|████▋     | 110M/233M [00:00<00:00, 381MB/s]  63%|██████▎   | 146M/233M [00:00<00:00, 319MB/s] 76%|███████▋  | 178M/233M [00:00<00:00, 293MB/s] 89%|████████▉ | 208M/233M [00:00<00:00, 299MB/s]100%|██████████| 233M/233M [00:00<00:00, 320MB/s]
+Loading model from: /home/ubuntu/anaconda3/envs/RAD-NeRF/lib/python3.10/site-packages/lpips/weights/v0.1/alex.pth
+[INFO] Trainer: ngp | 2023-06-03_00-43-28 | cuda | fp16 | trial_aihub/
+[INFO] #parameters: 3023125
+[INFO] Loading latest checkpoint ...
+[WARN] No checkpoint found, model randomly initialized.
+[INFO] load 100 val frames.
+[INFO] load  aud_features: torch.Size([7502, 1205, 16])
+Loading val data:   0%|          | 0/100 [00:00<?, ?it/s]Loading val data: 100%|██████████| 100/100 [00:00<00:00, 4527.63it/s]
+[INFO] eye_area: 0.122833251953125 - 0.319671630859375
+[INFO] max_epoch = 30
+==> Start Training Epoch 1, lr=0.000500 ...
+  0% 0/6820 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/home/ubuntu/mg/RAD-NeRF/main.py", line 239, in <module>
+    trainer.train(train_loader, valid_loader, max_epoch)
+  File "/home/ubuntu/mg/RAD-NeRF/nerf/utils.py", line 909, in train
+    self.train_one_epoch(train_loader)
+  File "/home/ubuntu/mg/RAD-NeRF/nerf/utils.py", line 1164, in train_one_epoch
+    self.model.update_extra_state()
+  File "/home/ubuntu/anaconda3/envs/RAD-NeRF/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/ubuntu/mg/RAD-NeRF/nerf/renderer.py", line 395, in update_extra_state
+    enc_a = self.encode_audio(auds)
+  File "/home/ubuntu/mg/RAD-NeRF/nerf/network.py", line 180, in encode_audio
+    enc_a = self.audio_net(a) # [1/8, 64]
+  File "/home/ubuntu/anaconda3/envs/RAD-NeRF/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/mg/RAD-NeRF/nerf/network.py", line 65, in forward
+    x = self.encoder_conv(x).squeeze(-1)
+  File "/home/ubuntu/anaconda3/envs/RAD-NeRF/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/anaconda3/envs/RAD-NeRF/lib/python3.10/site-packages/torch/nn/modules/container.py", line 217, in forward
+    input = module(input)
+  File "/home/ubuntu/anaconda3/envs/RAD-NeRF/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/anaconda3/envs/RAD-NeRF/lib/python3.10/site-packages/torch/nn/modules/conv.py", line 313, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/home/ubuntu/anaconda3/envs/RAD-NeRF/lib/python3.10/site-packages/torch/nn/modules/conv.py", line 309, in _conv_forward
+    return F.conv1d(input, weight, bias, self.stride,
+RuntimeError: Given groups=1, weight of size [32, 32, 3], expected input[8, 1205, 16] to have 32 channels, but got 1205 channels instead
+wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
+wandb: 🚀 View run peach-resonance-3 at: https://wandb.ai/suted321/RAD-NeRF/runs/xsg2prcb
+wandb: Synced 6 W&B file(s), 0 media file(s), 0 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230603_004319-xsg2prcb/logs

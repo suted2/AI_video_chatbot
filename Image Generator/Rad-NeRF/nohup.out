@@ -1,0 +1,18 @@
+wandb: Currently logged in as: suted321. Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.15.3
+wandb: Run data is saved locally in /home/ubuntu/mg/RAD-NeRF/wandb/run-20230602_090656-8n8k3kyt
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run deep-plant-1
+wandb: ⭐️ View project at https://wandb.ai/suted321/RAD-NeRF
+wandb: 🚀 View run at https://wandb.ai/suted321/RAD-NeRF/runs/8n8k3kyt
+Namespace(path='data/obama/', O=True, test=False, test_train=False, data_range=[0, -1], workspace='trial_obama/', seed=0, iters=200000, lr=0.005, lr_net=0.0005, ckpt='latest', num_rays=65536, cuda_ray=True, max_steps=16, num_steps=16, upsample_steps=0, update_extra_interval=16, max_ray_batch=4096, fp16=True, lambda_amb=0.1, bg_img='', fbg=False, exp_eye=True, fix_eye=-1, smooth_eye=False, torso_shrink=0.8, color_space='srgb', preload=0, bound=1, scale=4, offset=[0, 0, 0], dt_gamma=0.00390625, min_near=0.05, density_thresh=10, density_thresh_torso=0.01, patch_size=1, finetune_lips=False, smooth_lips=False, torso=False, head_ckpt='', gui=False, W=450, H=450, radius=3.35, fovy=21.24, max_spp=1, att=2, aud='', emb=False, ind_dim=4, ind_num=10000, ind_dim_torso=8, amb_dim=2, part=False, part2=False, train_camera=False, smooth_path=False, smooth_path_window=7, asr=False, asr_wav='', asr_play=False, asr_model='kresnik/wav2vec2-large-xlsr-korean', asr_save_feats=False, fps=50, l=10, m=50, r=10)
+Traceback (most recent call last):
+  File "/home/ubuntu/mg/RAD-NeRF/main.py", line 210, in <module>
+    train_loader = NeRFDataset(opt, device=device, type='train').dataloader()
+  File "/home/ubuntu/mg/RAD-NeRF/nerf/provider.py", line 356, in __init__
+    with open(os.path.join(self.root_path, f'transforms_{_split}.json'), 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'data/obama/transforms_train.json'
+wandb: Waiting for W&B process to finish... (failed 1). Press Control-C to abort syncing.
+wandb: 🚀 View run deep-plant-1 at: https://wandb.ai/suted321/RAD-NeRF/runs/8n8k3kyt
+wandb: Synced 6 W&B file(s), 0 media file(s), 2 artifact file(s) and 0 other file(s)
+wandb: Find logs at: ./wandb/run-20230602_090656-8n8k3kyt/logs
