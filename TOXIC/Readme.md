@@ -1,4 +1,3 @@
-## Toxic check 
-
+## Toxic Check
 
 #### 욕설 감지에서 가장 중요하게 생각한 것은 정
