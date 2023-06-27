@@ -132,7 +132,7 @@
 
 ❗STT <br>
 ❗TOXIC <br>
-❗TEXT TO SPEECH 를 통해 텍스트를 목소리로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [링크 넣을 곳] 여기서 확인 가능합니다.  
+❗TEXT TO SPEECH 를 통해 텍스트를 목소리로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/cd2ecace0f6cee0e48b7b321fe4c7869bc4ec956/TTS) 확인 가능합니다.  
 ❗Image Generation 을 통해 목소리와 base model 사진을 넣어 **영상을 생성하는** 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/ba46e638b4339a45ebdc1935ec009a23f4b8dd4b/Image%20Generator) 확인 가능합니다.  
 
 
