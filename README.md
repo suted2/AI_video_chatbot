@@ -164,7 +164,8 @@ __Rad-NeRF__
 __SadTalker__
 
 
-<img src="https://github.com/suted2/AI_video_chatbot/blob/7a5d4837f9e82e8bacfb762c9aa3f0fd293faea9/Image%20Generator/assets/RadNerf.gif" width="500" height="400"/>
+<img src="https://github.com/suted2/AI_video_chatbot/blob/dbf0733fe0cc80634c0aef0a8145c62829d75059/Image%20Generator/assets/KakaoTalk_20230626_174102381.gif" width="500" height="400"/>
+
 
 
 ---
