@@ -8,10 +8,9 @@
 |:--:|:--:|
 |2023.04.24 ~ 2023.04.28|사전 기획(프로젝트 기획, 주제 선정,  자료 조사)|
 |2023.04.29 ~ 2023.05.08|Data 수집,정제(lip sync 영상 수집, 정제, TTS Data 녹음, 전처리)|
-|2023.05.08 ~ 2023.05.23|Image Generation Modeling(Make It Talk, Wave To Lip)|
+|2023.05.08 ~ 2023.06.13|Image Generation Modeling(Make It Talk, Wave To Lip, Rad-NeRF)|
 |2023.05.15 ~ 2023.05.23|TTS Modeling(JETS)|
-  
-
+|2023.05.24 ~ 2023.06.13|ChatBot system(Poly-encoder)|
 
 </br></br>
 
@@ -131,10 +130,10 @@
 
 </br></br>
 
-❗STT <br>
-❗TOXIC <br>
-❗TEXT TO SPEECH 를 통해 텍스트를 목소리로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [링크 넣을 곳] 여기서 확인 가능합니다.  
-❗Image Generation 을 통해 목소리와 base model 사진을 넣어 **영상을 생성하는** 내용은 ➡️ [링크 넣을 곳] 여기서 확인 가능합니다.  
+❗STT 를 통해 들어온 목소리를 텍스트로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/d31b03d78510a988ccbddd174ec1236d427b3a37/STT) 확인 가능합니다. <br>
+❗TOXIC 를 통해 들어온 목소리를 텍스트로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/7ff612c8e6e1232991e5acf842a911deede2c914/TOXIC) 확인 가능합니다. <br>
+❗TEXT TO SPEECH 를 통해 텍스트를 목소리로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/cd2ecace0f6cee0e48b7b321fe4c7869bc4ec956/TTS) 확인 가능합니다.  
+❗Image Generation 을 통해 목소리와 base model 사진을 넣어 **영상을 생성하는** 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/ba46e638b4339a45ebdc1935ec009a23f4b8dd4b/Image%20Generator) 확인 가능합니다.  
 
 
 ---
@@ -154,6 +153,20 @@ MakeItTalk
 
 ![배성재_makeittalk_kor](https://user-images.githubusercontent.com/121469546/235813171-b01d5e9c-4f2f-4c81-93d9-0818c5b4bf73.gif)
 ![배성재_makeittalk_eng](https://user-images.githubusercontent.com/121469546/235813155-73a2b65a-10da-4e75-afa7-9f9859a0f5a3.gif)
+
+
+__Rad-NeRF__
+
+
+
+![Rad-NeRF](https://github.com/suted2/AI_video_chatbot/assets/101646531/58e6b85b-0b90-4135-ae6f-c4dc31c1f029)
+
+
+__SadTalker__
+
+![sadtalker](https://github.com/suted2/AI_video_chatbot/assets/101646531/81c49e92-8fd0-4bf6-bb9d-efd7b0d463b3)
+
+
 
 
 
@@ -212,3 +225,5 @@ MakeItTalk
 |Prajwal, K. R., et al. "A lip sync expert is all you need for speech to lip generation in the wild." Proceedings of the 28th ACM International Conference on Multimedia. 2020.|[Wav_2Lip](https://github.com/Rudrabha/Wav2Lip)| [paper](https://arxiv.org/pdf/2008.10010v1.pdf)|
 |Zhou, Yang, et al. "Makelttalk: speaker-aware talking-head animation." ACM Transactions On Graphics (TOG) 39.6 (2020): 1-15.|[MakeItTalk](https://github.com/yzhou359/MakeItTalk) | [paper](https://arxiv.org/pdf/2004.12992v3.pdf)|
 |[end-to-end speech processing toolkit](https://espnet.github.io/espnet/)|[ESPNET(JETS)](https://github.com/espnet/espnet) | [paper](https://arxiv.org/abs/2203.16852) |
+|TANG, Jiaxiang, et al. Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition. arXiv preprint arXiv:2211.12368, 2022.|[Rad-NeRF](https://github.com/ashawkey/RAD-NeRF)| [paper](https://arxiv.org/abs/2211.12368)
+|LIM, Dan; JUNG, Sunghee; KIM, Eesung. JETS: Jointly training FastSpeech2 and HiFi-GAN for end to end text to speech. arXiv preprint arXiv:2203.16852, 2022.|[JETS](https://github.com/imdanboy/jets)| [paper](https://arxiv.org/pdf/2203.16852v2.pdf)
