@@ -30,7 +30,7 @@ Github를 이용한 설치도 가능합니다.
 
 ## Available models and languages
 
-Whisper 모델에는 Parameter에 따른 다양한 Size가 존재합니다. 저희는 한국어로 Whisper 모델을 사용하고자 하여, English-only모델이 아닌 기본 모델을 사용하였습니다. 추가적으로, Inference Time, Accuracy를 고려하여 Medium 모델을 사용하기로 결정하였습니다.
+Whisper 모델에는 Parameter에 따른 다양한 Size가 존재합니다. 저희는 한국어로 Whisper 모델을 사용하고자 하여, English-only모델이 아닌 Multilingual 모델을 사용하였습니다. 추가적으로, Inference Time, Accuracy를 고려하여 Medium 모델을 사용하기로 결정하였습니다.
 
 |  Size  | Parameters | Multilingual model | Required VRAM | Relative speed |
 |:------:|:----------:|:------------------:|:-------------:|:--------------:|
