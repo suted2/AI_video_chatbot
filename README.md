@@ -8,10 +8,9 @@
 |:--:|:--:|
 |2023.04.24 ~ 2023.04.28|사전 기획(프로젝트 기획, 주제 선정,  자료 조사)|
 |2023.04.29 ~ 2023.05.08|Data 수집,정제(lip sync 영상 수집, 정제, TTS Data 녹음, 전처리)|
-|2023.05.08 ~ 2023.05.23|Image Generation Modeling(Make It Talk, Wave To Lip)|
+|2023.05.08 ~ 2023.06.13|Image Generation Modeling(Make It Talk, Wave To Lip, Rad-NeRF)|
 |2023.05.15 ~ 2023.05.23|TTS Modeling(JETS)|
-  
-
+|2023.05.24 ~ 2023.06.13|ChatBot system(Poly-encoder)|
 
 </br></br>
 
