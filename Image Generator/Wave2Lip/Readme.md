@@ -56,8 +56,14 @@
 1. syncnet ( Discriminator ) <br>
 ![image](https://github.com/suted2/AI_video_chatbot/assets/101646531/f2e6040c-aa1c-45b7-bc16-4617ac6a24ef)
 
-논문에서 요구하는 수치인 0.2 loss 까지는 수렴하지 못했지만, 0.44 까지 수렴 Train 시간이 110 시간이 넘어가서 중지함. 
+논문에서 요구하는 수치인 0.25 loss 까지는 수렴하지 못했지만, 0.44 까지 수렴 Train 시간이 110 시간이 넘어가서 중지함. 
 
+
+
+2. Generator <br>
+![image](image.png)
+
+논문에서 요구하는 수치인 0.2 loss를 달성하여 수렴하게 되었다. 
 
 
 
