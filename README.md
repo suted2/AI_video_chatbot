@@ -222,3 +222,4 @@ __SadTalker__
 |[end-to-end speech processing toolkit](https://espnet.github.io/espnet/)|[ESPNET(JETS)](https://github.com/espnet/espnet) | [paper](https://arxiv.org/abs/2203.16852) |
 |TANG, Jiaxiang, et al. Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition. arXiv preprint arXiv:2211.12368, 2022.|[Rad-NeRF](https://github.com/ashawkey/RAD-NeRF)| [paper](https://arxiv.org/abs/2211.12368)
 |LIM, Dan; JUNG, Sunghee; KIM, Eesung. JETS: Jointly training FastSpeech2 and HiFi-GAN for end to end text to speech. arXiv preprint arXiv:2203.16852, 2022.|[JETS](https://github.com/imdanboy/jets)| [paper](https://arxiv.org/pdf/2203.16852v2.pdf)
+|HUMEAU, Samuel, et al. Poly-encoders: Transformer architectures and pre-training strategies for fast and accurate multi-sentence scoring. arXiv preprint arXiv:1905.01969, 2019.|[Poly-Encoder](https://github.com/chijames/Poly-Encoder)| [paper](https://arxiv.org/pdf/1905.01969v4.pdf)
