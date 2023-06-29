@@ -78,7 +78,7 @@
 ![문제 배경3](https://github.com/suted2/alpaco_5th_3/blob/13a0d7c32ab6cf61f2a28a00e47e6461ef5faff3/%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9Cppt/%EB%B0%B0%EA%B2%BD3.png)
 
 </br>
-해당 표에 나오듯 공공 서비스에 대한 정보를 가장 원하고 있다. </br></br></br></br>
+해당 표에 나오듯 공공 서비스에 대한 정보 / 역량이 가장 중요하다는 사실을 확인 할 수 있다. . </br></br></br></br>
 
 
  ✔️ **현재 시중의 챗봇 , 디지털 시스템의 문제를 확인해 보자**
@@ -134,6 +134,8 @@
 ❗TOXIC 를 통해 들어온 목소리를 텍스트로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/7ff612c8e6e1232991e5acf842a911deede2c914/TOXIC) 확인 가능합니다. <br>
 ❗TEXT TO SPEECH 를 통해 텍스트를 목소리로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/cd2ecace0f6cee0e48b7b321fe4c7869bc4ec956/TTS) 확인 가능합니다.  
 ❗Image Generation 을 통해 목소리와 base model 사진을 넣어 **영상을 생성하는** 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/ba46e638b4339a45ebdc1935ec009a23f4b8dd4b/Image%20Generator) 확인 가능합니다.  
+❗Chat Bot을 통해 원하는 답변을 얻어 답변하는 Model 일련의 과정은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/b8bba8f7bb3dec33eef69912fba67104b001eb3b/Chatbot) 확인 가능합니다. 
+
 
 
 ---
