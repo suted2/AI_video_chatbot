@@ -104,7 +104,7 @@
 **결론적으로 만들게 될 모델은 실버 + AI상담원 + 챗봇**이다. 
 
 실버 `고령층을 위한 쉽고 편리한` + AI상담원`실제 사람과 대화하는 경험을 통해 거부감을 줄인` </br>
-+ 챗봇`공공서비스에 대한 정보를 제공하는` 시스템을 만드는 PROJECT이다. 
+챗봇`공공서비스에 대한 정보를 제공하는` 시스템을 만드는 PROJECT이다. 
 
 
 
@@ -118,7 +118,7 @@
 + 24시간 상황 대처 가능 
   > 24시간 고령층의 민원에 대응이 가능하며, 응급상황, 다양한 민원에 대응이 가능하다. 
 + 예산 감소
-  > 현재 많은 예산과 인원이 고령층을 위한 정책 시행, 홍보에 소모되고 있다. 고령층이 능동적으로 정보를 찾고 받을 수 있는 능력이 있다면 해당 인원 돈을 단축할 수 있다. -
+  > 현재 많은 예산과 인원이 고령층을 위한 정책 시행, 홍보에 소모되고 있다. 고령층이 능동적으로 정보를 찾고 받을 수 있는 능력이 있다면 해당 인원 돈을 단축할 수 있다.
 
 
 </br></br>
@@ -130,7 +130,7 @@
 
 </br></br>
 
-❗STT 를 통해 들어온 목소리를 텍스트로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/d31b03d78510a988ccbddd174ec1236d427b3a37/STT) 확인 가능합니다. <br>
+❗STT 를 통해 들어온 목소리를 텍스트로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/d31b03d78510a988ccbddd174ec1236d427b3a37/STT) 확인 가능합니다. <br><br>
 ❗TOXIC 를 통해 들어온 목소리를 텍스트로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/7ff612c8e6e1232991e5acf842a911deede2c914/TOXIC) 확인 가능합니다. <br>
 ❗TEXT TO SPEECH 를 통해 텍스트를 목소리로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/cd2ecace0f6cee0e48b7b321fe4c7869bc4ec956/TTS) 확인 가능합니다.  
 ❗Image Generation 을 통해 목소리와 base model 사진을 넣어 **영상을 생성하는** 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/ba46e638b4339a45ebdc1935ec009a23f4b8dd4b/Image%20Generator) 확인 가능합니다.  
