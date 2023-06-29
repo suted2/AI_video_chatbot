@@ -39,7 +39,7 @@ wget https://github.com/YudongGuo/AD-NeRF/blob/master/data_util/face_parsing/799
 ## prepare basel face model
 # 1. download `01_MorphableModel.mat` from https://faces.dmi.unibas.ch/bfm/main.php?nav=1-2&id=downloads and put it under `data_utils/face_tracking/3DMM/`
 
-## 1번 mat 파일은 기존의 얼굴 평균 파일 들입니다. 해당 url로 들어가서 다움 가능합니다. ( 받은 파일들을 압축 해제 하면 존재합니다. )
+## 1번 mat 파일은 기존의 얼굴 평균 파일 입니다. 해당 url로 들어가서 다운 가능합니다. ( 받은 파일들을 압축 해제 하면 존재합니다. )
 
 
 # 2. download other necessary files from AD-NeRF's repository:
@@ -133,7 +133,7 @@ python main.py data/obama/ --workspace trial_obama_torso/ -O --torso --head_ckpt
 ```
 
 
-##Citation
+## Citation
 
 ```shell
 @article{tang2022radnerf,

@@ -4,7 +4,7 @@
 
 ## 프로젝트 기간 📆
 
-|날짜|한 일|
+|날짜|업무 내용|
 |:--:|:--:|
 |2023.04.24 ~ 2023.04.28|사전 기획(프로젝트 기획, 주제 선정,  자료 조사)|
 |2023.04.29 ~ 2023.05.08|Data 수집,정제(lip sync 영상 수집, 정제, TTS Data 녹음, 전처리)|
@@ -17,12 +17,12 @@
 ## 구성원 🤸🏻‍♀️
 *알파코 5기 3조* 
 
-|구성원|깃허브 주소|한일|
-|:--:|:--:|:--:|
-|노아윤|[Git](https://github.com/ayun3738)|프로젝트 일정 관리, MIT fine-tuning, 데이터 전처리, Web Ux 구현|
-|김도현|[Git](github.com/doh0106)|TTS Modeling(Jests-based), 데이터 전처리, Poly-Encoder train, aws 환경 구축, Web Ux 구현|
-|송기훈|[Git](https://github.com/Kihoon9498)|MIT fine-tuning, 데이터 전처리, whisper pipeline, aws 환경 구축, Web UI, Ux 구현, 웹 서비스 배포|
-|황민규|[GIt](https://github.com/suted2)|W2L fine-tuning, Rad-NeRF fine-tuning 데이터 전처리, TOXIC pipeline, TTS 데이터 생성, Web Ux 구현|
+|구성원|깃허브 주소|분담 역할|
+|:---:|:--:|:--:|
+|노아윤|[Git](https://github.com/ayun3738)|프로젝트 일정 관리, MIT fine-tuning, 데이터 전처리, <br> Web Ux 구현|
+|김도현|[Git](github.com/doh0106)|TTS Modeling(Jests-based), 데이터 전처리, Poly-Encoder train, <br> aws 환경 구축, Web Ux 구현|
+|송기훈|[Git](https://github.com/Kihoon9498)|MIT fine-tuning, 데이터 전처리, whisper pipeline, <br> aws 환경 구축, Web UI, Ux 구현, 웹 서비스 배포|
+|황민규|[GIt](https://github.com/suted2)|W2L fine-tuning, Rad-NeRF fine-tuning 데이터 전처리, <br> TOXIC pipeline, TTS 데이터 생성, Web Ux 구현|
 
 </br>  
 
@@ -78,7 +78,7 @@
 ![문제 배경3](https://github.com/suted2/alpaco_5th_3/blob/13a0d7c32ab6cf61f2a28a00e47e6461ef5faff3/%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9Cppt/%EB%B0%B0%EA%B2%BD3.png)
 
 </br>
-해당 표에 나오듯 공공 서비스에 대한 정보를 가장 원하고 있다. </br></br></br></br>
+해당 표에 나오듯 공공 서비스에 대한 정보 / 역량이 가장 중요하다는 사실을 확인 할 수 있다. . </br></br></br></br>
 
 
  ✔️ **현재 시중의 챗봇 , 디지털 시스템의 문제를 확인해 보자**
@@ -104,7 +104,7 @@
 **결론적으로 만들게 될 모델은 실버 + AI상담원 + 챗봇**이다. 
 
 실버 `고령층을 위한 쉽고 편리한` + AI상담원`실제 사람과 대화하는 경험을 통해 거부감을 줄인` </br>
-+ 챗봇`공공서비스에 대한 정보를 제공하는` 시스템을 만드는 PROJECT이다. 
+챗봇`공공서비스에 대한 정보를 제공하는` 시스템을 만드는 PROJECT이다. 
 
 
 
@@ -118,7 +118,7 @@
 + 24시간 상황 대처 가능 
   > 24시간 고령층의 민원에 대응이 가능하며, 응급상황, 다양한 민원에 대응이 가능하다. 
 + 예산 감소
-  > 현재 많은 예산과 인원이 고령층을 위한 정책 시행, 홍보에 소모되고 있다. 고령층이 능동적으로 정보를 찾고 받을 수 있는 능력이 있다면 해당 인원 돈을 단축할 수 있다. -
+  > 현재 많은 예산과 인원이 고령층을 위한 정책 시행, 홍보에 소모되고 있다. 고령층이 능동적으로 정보를 찾고 받을 수 있는 능력이 있다면 해당 인원 돈을 단축할 수 있다.
 
 
 </br></br>
@@ -132,8 +132,10 @@
 
 ❗STT 를 통해 들어온 목소리를 텍스트로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/d31b03d78510a988ccbddd174ec1236d427b3a37/STT) 확인 가능합니다. <br>
 ❗TOXIC 를 통해 들어온 목소리를 텍스트로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/7ff612c8e6e1232991e5acf842a911deede2c914/TOXIC) 확인 가능합니다. <br>
+❗Chat Bot을 통해 원하는 답변을 얻어 답변하는 Model 일련의 과정은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/b8bba8f7bb3dec33eef69912fba67104b001eb3b/Chatbot) 확인 가능합니다. <br>
 ❗TEXT TO SPEECH 를 통해 텍스트를 목소리로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/cd2ecace0f6cee0e48b7b321fe4c7869bc4ec956/TTS) 확인 가능합니다.  
 ❗Image Generation 을 통해 목소리와 base model 사진을 넣어 **영상을 생성하는** 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/ba46e638b4339a45ebdc1935ec009a23f4b8dd4b/Image%20Generator) 확인 가능합니다.  
+
 
 
 ---
@@ -204,7 +206,7 @@ __SadTalker__
      - 하지만 고령층은 불신과, 과정의 어려움으로 실제로 사용하지 못하고 있다.
     
   3. 현장 키오스크로 확대
-     - 키오스크가 가장 노인들이 두려워하는 방식이다. 라는 말처럼
+     - `키오스크가 가장 노인들이 두려워하는 방식이다.` 라는 말처럼 키오스크의 사용방법과 절차는 고령층에게 매우 어렵다. 
      - 키오스크에 적용 처리한다. 
 
 
@@ -222,3 +224,4 @@ __SadTalker__
 |[end-to-end speech processing toolkit](https://espnet.github.io/espnet/)|[ESPNET(JETS)](https://github.com/espnet/espnet) | [paper](https://arxiv.org/abs/2203.16852) |
 |TANG, Jiaxiang, et al. Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition. arXiv preprint arXiv:2211.12368, 2022.|[Rad-NeRF](https://github.com/ashawkey/RAD-NeRF)| [paper](https://arxiv.org/abs/2211.12368)
 |LIM, Dan; JUNG, Sunghee; KIM, Eesung. JETS: Jointly training FastSpeech2 and HiFi-GAN for end to end text to speech. arXiv preprint arXiv:2203.16852, 2022.|[JETS](https://github.com/imdanboy/jets)| [paper](https://arxiv.org/pdf/2203.16852v2.pdf)
+|HUMEAU, Samuel, et al. Poly-encoders: Transformer architectures and pre-training strategies for fast and accurate multi-sentence scoring. arXiv preprint arXiv:1905.01969, 2019.|[Poly-Encoder](https://github.com/chijames/Poly-Encoder)| [paper](https://arxiv.org/pdf/1905.01969v4.pdf)

@@ -1,0 +1,5 @@
+{
+  "do_lower_case": true,
+  "strip_accents": false,
+  "model_max_length": 512
+}

@@ -31,7 +31,7 @@
 
 `python wav2lip_train.py --data_root ./my_preprocessed/ --checkpoint_dir checkpoints/ --syncnet_checkpoint_path <your syncnet.pth>`
 
-3. If you want hq_trian 
+3. If you want hq_train 
 > 위의 train은 입모양에 집중하기에 화질 자체에는 생성 문제가 있습니다 따라서 추가적인 discriminator를 더하여 해결 가능합니다 .
 
 `%run hq_wav2lip_train.py --data_root <your> --checkpoint_dir checkpoints/ --syncnet_checkpoint_path <your syncnet.pth> --checkpoint_path <wav2lip.pth (이전 트레인에서 이어서 할 경우> --disc_checkpoint_path <화질 관련 discriminator.pth>`
