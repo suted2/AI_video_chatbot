@@ -158,7 +158,7 @@
    - 카테고리별답변들.txt 파일은 한 줄마다 학습시킨 답변들 하나씩 작성
    - output인 카테고리별embedding.pickle의 예시는 우리 datasets/{category}_with_text.pickle 를 통해서 확인 가능
 2. 이후 [inference.py](utils/inference.py)를 통하여 모델 생성하여 챗봇 모델 생성하여 [질문->답변] 실험 가능
-   - 자세한 실행 코드는 examples 폴더의 how_2_inference.ipynb 파일 참조
+   - 자세한 실행 코드는 examples 폴더의 [how_2_inference.ipynb](examples/how_2_inference.ipynb) 파일 참조
 
 
 <br>
