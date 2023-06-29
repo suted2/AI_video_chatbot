@@ -1,7 +1,7 @@
 ### :book: Contents Table
 - [프로젝트 내용](#프로젝트-내용)
    &rarr; [챗봇 구성도](#챗봇-구성도)
-   &rarr; [챗봇 시스템](#retrieval-based-vs-generative-based)
+   &rarr; [챗봇 시스템](#retrieval-based)
    &rarr; [Poly Encoder](#poly-encoder)
    &rarr; [Cross Encoder](#cross-encoder)
    &rarr; [Problem Solving](#problem-solving)
@@ -36,7 +36,7 @@
 - 모든 context token과 candidate token간의 attention을 수행하므로 **매우 좋은 질문 답변 이해도**
 - 모델 구조상 candidate text에 대하여 embedding을 미리 생성하지 못하므로 candidate가 많을수록 **inference time이 매우 길어짐**
 
-####:memo: [참조 논문](https://arxiv.org/abs/1905.01969) 및 [논문 리뷰](https://www.notion.so/Poly-encoders-architectures-and-pre-training-strategies-for-fast-and-accurate-multi-sentence-scorin-ba51708779cf492695c307512b7a4a9c?pvs=4)
+:memo: [참조 논문](https://arxiv.org/abs/1905.01969) 및 [논문 리뷰](https://www.notion.so/Poly-encoders-architectures-and-pre-training-strategies-for-fast-and-accurate-multi-sentence-scorin-ba51708779cf492695c307512b7a4a9c?pvs=4)
 모델 관련 더 자세한 내용은 위 링크 참조
 
 <br>
