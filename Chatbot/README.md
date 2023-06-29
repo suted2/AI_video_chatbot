@@ -1,10 +1,10 @@
 ### :book: Contents Table
 - [프로젝트 내용](#프로젝트-내용)
-   &rarr; [챗봇 구성도](#챗봇-구성도)
-   &rarr; [챗봇 시스템](#retrieval-based)
-   &rarr; [Poly Encoder](#poly-encoder)
-   &rarr; [Cross Encoder](#cross-encoder)
-   &rarr; [Problem Solving](#problem-solving)
+   - [챗봇 구성도](#챗봇-구성도)
+   - [챗봇 시스템](#retrieval-based)
+   - [Poly Encoder](#poly-encoder)
+   - [Cross Encoder](#cross-encoder)
+   - [Problem Solving](#problem-solving)
 - [Repo 설명](#repo-설명)
 ---
 ## 프로젝트 내용
@@ -49,7 +49,7 @@
    - 질문을 하는 방법에 따라 정확한 답변이 나오기도 하고 유사한 다른 답변이 나오기도 함
 - 해결 
    - 애초에 채팅을 하기 전 어떤 주제(일반행정, 상하수, 코로나)에 관하여 질문할 것인지 정하게한 뒤 Retrieval을 해당 주제 답변들에 대해서만 수행
-   - 점수(처음에는 Poly Score만을 사용하다가 &rarr; 사용자의 질문과 학습 질문간의 cosine similarity 적용 &rarr; Re-Ranker역할을 할 Cross Encoder새로 학습 시켜 Cross Score로 적용)가 일정 Threshold를 넘지 못하면 `질문을 이해하지 못했습니다. 다시 질문해주세요.`라고 출력
+   - 점수(처음에는 Poly Score만을 사용하다가 - 사용자의 질문과 학습 질문간의 cosine similarity 적용 &rarr; Re-Ranker역할을 할 Cross Encoder새로 학습 시켜 Cross Score로 적용)가 일정 Threshold를 넘지 못하면 `질문을 이해하지 못했습니다. 다시 질문해주세요.`라고 출력
    - 앞서 말했듯이 Poly Score가 가장 높은 답변보다 질문을 이애하는 능력이 더 좋은 Cross Encoder로 구한 Cross Score가 더 정확함 &rarr; Poly Encoder로 약 800여개의 답변들중 상위 k(hyper parameter)개의 답변 후보를 구하고 이들에 대해 Cross Encoder수행 &rarr; 정확도와 infrence time간의 적절한 조화
 
 ---
