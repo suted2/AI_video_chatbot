@@ -16,6 +16,7 @@
 1. [Make It Talk](https://github.com/suted2/AI_video_chatbot/tree/f8b64f0c32ade7882934a771b3180cda89a302f4/Image%20Generator/MakeItTalk)
 2. [Wave to Lip](https://github.com/suted2/AI_video_chatbot/tree/83bb17528a6f926b558648118e97928fb3c50f69/Image%20Generator/Wave2Lip) 
 3. [RAD-NeRF](https://github.com/suted2/AI_video_chatbot/tree/9769470996affd0002591805be2ec93c5e1366d7/Image%20Generator/Rad-NeRF)
+4. [SadTalker](https://github.com/suted2/AI_video_chatbot/tree/9769470996affd0002591805be2ec93c5e1366d7/Image%20Generator/SadTalker)
 
 모델 select의 기준은 
 1. 여러 사람에게 General 하게 적용 가능한가. 
@@ -42,4 +43,4 @@
 | MakeItTalk | [Git](https://github.com/adobe-research/MakeItTalk) | [Paper](https://arxiv.org/abs/2004.12992)  |
 | Wav2Lip | [Git](https://github.com/Rudrabha/Wav2Lip) | [Paper](https://arxiv.org/pdf/2008.10010.pdf)  |
 | Rad-NeRF| [Git](https://github.com/ashawkey/RAD-NeRF) | [Paper](https://arxiv.org/abs/2211.12368) |
-
+| SadTalker| [Git](https://github.com/OpenTalker/SadTalker) | [Paper](https://arxiv.org/abs/2211.12194) |
