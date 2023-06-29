@@ -130,11 +130,11 @@
 
 </br></br>
 
-❗STT 를 통해 들어온 목소리를 텍스트로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/d31b03d78510a988ccbddd174ec1236d427b3a37/STT) 확인 가능합니다. <br><br>
+❗STT 를 통해 들어온 목소리를 텍스트로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/d31b03d78510a988ccbddd174ec1236d427b3a37/STT) 확인 가능합니다. <br>
 ❗TOXIC 를 통해 들어온 목소리를 텍스트로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/7ff612c8e6e1232991e5acf842a911deede2c914/TOXIC) 확인 가능합니다. <br>
+❗Chat Bot을 통해 원하는 답변을 얻어 답변하는 Model 일련의 과정은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/b8bba8f7bb3dec33eef69912fba67104b001eb3b/Chatbot) 확인 가능합니다. <br>
 ❗TEXT TO SPEECH 를 통해 텍스트를 목소리로 바꾼다. 해당 모델에 대한 자세한 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/cd2ecace0f6cee0e48b7b321fe4c7869bc4ec956/TTS) 확인 가능합니다.  
 ❗Image Generation 을 통해 목소리와 base model 사진을 넣어 **영상을 생성하는** 내용은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/ba46e638b4339a45ebdc1935ec009a23f4b8dd4b/Image%20Generator) 확인 가능합니다.  
-❗Chat Bot을 통해 원하는 답변을 얻어 답변하는 Model 일련의 과정은 ➡️ [여기](https://github.com/suted2/AI_video_chatbot/tree/b8bba8f7bb3dec33eef69912fba67104b001eb3b/Chatbot) 확인 가능합니다. 
 
 
 
