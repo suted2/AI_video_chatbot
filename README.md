@@ -18,11 +18,11 @@
 *알파코 5기 3조* 
 
 |구성원|깃허브 주소|분담 역할|
-|:--:|:--:|:--:|
-|노아윤|[Git](https://github.com/ayun3738)|프로젝트 일정 관리, MIT fine-tuning, 데이터 전처리, Web Ux 구현|
-|김도현|[Git](github.com/doh0106)|TTS Modeling(Jests-based), 데이터 전처리, Poly-Encoder train, aws 환경 구축, Web Ux 구현|
-|송기훈|[Git](https://github.com/Kihoon9498)|MIT fine-tuning, 데이터 전처리, whisper pipeline, aws 환경 구축, Web UI, Ux 구현, 웹 서비스 배포|
-|황민규|[GIt](https://github.com/suted2)|W2L fine-tuning, Rad-NeRF fine-tuning 데이터 전처리, TOXIC pipeline, TTS 데이터 생성, Web Ux 구현|
+|:---:|:--:|:--:|
+||노아윤||[Git](https://github.com/ayun3738)|프로젝트 일정 관리, MIT fine-tuning, 데이터 전처리, Web Ux 구현|
+||김도현||[Git](github.com/doh0106)|TTS Modeling(Jests-based), 데이터 전처리, Poly-Encoder train, aws 환경 구축, Web Ux 구현|
+||송기훈||[Git](https://github.com/Kihoon9498)|MIT fine-tuning, 데이터 전처리, whisper pipeline, aws 환경 구축, Web UI, Ux 구현, 웹 서비스 배포|
+||황민규||[GIt](https://github.com/suted2)|W2L fine-tuning, Rad-NeRF fine-tuning 데이터 전처리, TOXIC pipeline, TTS 데이터 생성, Web Ux 구현|
 
 </br>  
 
