@@ -36,7 +36,7 @@
 4. $\beta_{\{0...n\}}$와 $\rho_{\{0...n\}}$을 3D-Aware Face Render 모듈을 통해 연속적인 Frame을 생성한다.
 
 ## Change Wav2Lip
-![ExpNet](docs/ExpNet.PNG)
+![ExpNet](docs/ExpNet.png)
 1. ExpNet에서 Wav2Lip 모듈을 이용해 입모양을 생성한다.
 2. 학습할 때 Wav2Lip 모듈의 weight를 잠그고 distillation을 진행한다.
 3. 그 뒤 Test를 할 때 그림의 위쪽 부분을 떼어 사용한다.
