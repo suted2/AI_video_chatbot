@@ -133,7 +133,7 @@ python main.py data/obama/ --workspace trial_obama_torso/ -O --torso --head_ckpt
 ```
 
 
-##Citation
+## Citation
 
 ```shell
 @article{tang2022radnerf,
