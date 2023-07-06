@@ -39,14 +39,14 @@
 ![ExpNet](docs\ExpNet.PNG)
 1. ExpNet에서 Wav2Lip 모듈을 이용해 입모양을 생성한다.
 2. 학습할 때 Wav2Lip 모듈의 weight를 잠그고 distillation을 진행한다.
-3. 그 뒤 Test를 할 때 그림의 위쪽 부분을 떼어 사용한다.
+3. 그 뒤 Test를 할 때 그림의 위쪽 부분을 떼어 사용한다.s
 > 영어로 학습된 Wav2Lip 모듈을 우리가 학습한 Wav2Lip 모듈으로 바꾸는 방법을 생각했다.
 
 ## Demo
 | Source | 기존 SadTalker | Ours SadTalker (with kor-wav2lip-ExpNet)
 | :--- | :---------- | :---------- 
-| 지창욱 소스이미지 | 지창욱 변경전 | 지창욱 변경후
-| 유재석 소스이미지 | 유재석 변경전 | 유재석 변경후
+| ![지창욱](docs\J_source.PNG) | 지창욱 변경전 | 지창욱 변경후
+| ![유재석](docs\U_source.PNG) | 유재석 변경전 | 유재석 변경후
 
 > 입모양은 잘 맞게 됐지만 얼굴 style 자체가 변형된다.
 
