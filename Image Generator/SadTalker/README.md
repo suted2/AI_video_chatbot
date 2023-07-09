@@ -82,7 +82,7 @@ Model explains:
 
 # 🔮 3. Quick Start
 
-⚠️ reference quick demo는 requirements.txt 문제로 정상 실행이 어려움을 확인(~23.06.28)
+⚠️ reference github의 quick_demo.ipynb는 requirements.txt 문제로 정상 실행이 어려움을 확인(~23.06.28)
 
 1. conda 가상환경 설치
 2. git clone
