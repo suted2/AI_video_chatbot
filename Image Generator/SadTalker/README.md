@@ -88,7 +88,7 @@ Model explains:
 2. git clone
 ```command
 conda create -n sad-talker python=3.10
-git clone https://github.com/Winfredy/SadTalker.git
+git clone https://github.com/suted2/AI_video_chatbot/Image%20Generator/SadTalker.git
 ```
 3. requirements 설치( 230628 기준 requirements)
 ```command
